@@ -1,0 +1,103 @@
+html
+{
+background-color: #FFFFFF;
+}
+
+
+h3
+{
+font-family: arial, sans-serif;
+font-size: 14px;
+text-align: left;
+}
+
+h4
+{
+color: #557700;
+text-align: center;
+margin-left: 3em;
+margin-right: 4em;
+}
+
+a:link, a:visited
+{
+color: #0099FF;
+font-weight: bold;
+text-decoration: none;
+}
+
+.menu
+{
+font-family: "Lucida Grande","Kalimati","Segoe UI","Trebuchet MS",Verdana,sans-serif;
+/* font-family: "HelveticaNeue", sans-serif; */
+font-size: 22px;
+padding-left: 24px;
+}
+
+.title
+{
+font-family: "Lucida Grande","Kalimati","Segoe UI","Trebuchet MS",Verdana,sans-serif;
+/* font-family: "HelveticaNeue", sans-serif; */
+font-size: 32px;
+font-weight: bold;
+padding-left: 24px;
+}
+
+.menu a
+{
+padding-right: 15px;
+padding-left: 15px;
+font-weight: normal;
+}
+
+.title a
+{
+color: #448;
+}
+
+.title a:hover
+{
+background-color: #eeeeee;
+}
+
+.menu a:hover
+{
+color: #FF6666;
+}
+
+.phpdate
+{
+text-align: right;
+color: #000000;
+font-weight: bold;
+font-size: 13px;
+font-family: Arial, sans-serif;
+}
+
+.content
+{
+background-color: #FFFFFF;
+width: 921px;
+padding-left: 20px;
+font-family: "Lucida Grande","Kalimati","Segoe UI","Trebuchet MS",Verdana,sans-serif;
+/* font-family: "HelveticaNeue", sans-serif; */
+font-size: 14px;
+margin: auto;
+display: inline-block; 
+}
+
+ul
+{
+text-align: justify;
+list-style-type: square;
+}
+
+li
+{
+text-align: justify;
+}
+
+.footnote
+{
+font-style: italic;
+}
