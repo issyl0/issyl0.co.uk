@@ -32,10 +32,12 @@ font-family: "Lucida Grande","Kalimati","Segoe UI","Trebuchet MS",Verdana,sans-s
 /* font-family: "HelveticaNeue", sans-serif; */
 font-size: 22px;
 padding-left: 24px;
+text-align:center;
 }
 
 .title
 {
+text-align:center;
 font-family: "Lucida Grande","Kalimati","Segoe UI","Trebuchet MS",Verdana,sans-serif;
 /* font-family: "HelveticaNeue", sans-serif; */
 font-size: 32px;
@@ -68,8 +70,9 @@ color: #FF6666;
 .content
 {
 background-color: #FFFFFF;
-width: 921px;
-padding-left: 20px;
+width: 500px;
+padding-left: 380px;
+padding-right: 380px;
 font-family: "Lucida Grande","Kalimati","Segoe UI","Trebuchet MS",Verdana,sans-serif;
 /* font-family: "HelveticaNeue", sans-serif; */
 font-size: 14px;
@@ -77,6 +80,10 @@ margin: auto;
 display: inline-block; 
 }
 
+.content div#contact
+{
+text-align:center;
+}
 ul
 {
 text-align: justify;
