@@ -77,13 +77,13 @@ font-family: "Lucida Grande","Kalimati","Segoe UI","Trebuchet MS",Verdana,sans-s
 /* font-family: "HelveticaNeue", sans-serif; */
 font-size: 14px;
 margin: auto;
-display: inline-block; 
 }
 
 .content div#contact
 {
 text-align:center;
 }
+
 ul
 {
 text-align: justify;
