@@ -1,101 +1,35 @@
-html
-{
+html {
 background-color: #FFFFFF;
+margin-left: 200px;
+margin-right: 200px;
 }
 
-
-h3
-{
-font-family: arial, sans-serif;
-font-size: 14px;
-text-align: left;
+h2 {
+	font-family: 'Nova Square', cursive;
 }
 
-h4
-{
-color: #557700;
+.title {
 text-align: center;
-margin-left: 3em;
-margin-right: 4em;
-}
-
-a:link, a:visited
-{
-color: #0099FF;
-font-weight: bold;
-text-decoration: none;
-}
-
-.menu
-{
-font-family: "Lucida Grande","Kalimati","Segoe UI","Trebuchet MS",Verdana,sans-serif;
-/* font-family: "HelveticaNeue", sans-serif; */
-font-size: 22px;
-padding-left: 24px;
-text-align:center;
-}
-
-.title
-{
-text-align:center;
-font-family: "Lucida Grande","Kalimati","Segoe UI","Trebuchet MS",Verdana,sans-serif;
-/* font-family: "HelveticaNeue", sans-serif; */
+font-family: 'Nova Square', cursive;
 font-size: 32px;
 font-weight: bold;
-padding-left: 24px;
 }
 
-.menu a
-{
-padding-right: 15px;
-padding-left: 15px;
-font-weight: normal;
-}
-
-.title a
-{
-color: #448;
-}
-
-.title a:hover
-{
-background-color: #eeeeee;
-}
-
-.menu a:hover
-{
-color: #FF6666;
-}
-
-.content
-{
+.content {
 background-color: #FFFFFF;
-width: 500px;
-padding-left: 380px;
-padding-right: 380px;
-font-family: "Lucida Grande","Kalimati","Segoe UI","Trebuchet MS",Verdana,sans-serif;
-/* font-family: "HelveticaNeue", sans-serif; */
+text-align: center;
+font-family: 'Duru Sans', sans-serif;
 font-size: 14px;
-margin: auto;
 }
 
-.content div#contact
-{
-text-align:center;
+a#email {
+	font-size:24px;
 }
 
-ul
-{
-text-align: justify;
-list-style-type: square;
+img#me {
+	border: 1px solid #000000;
 }
 
-li
-{
-text-align: justify;
-}
-
-.footnote
-{
-font-style: italic;
+div#footer {
+	font-size: 10px;
 }
