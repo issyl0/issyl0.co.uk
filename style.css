@@ -1,35 +1,38 @@
 html {
 background-color: #FFFFFF;
-margin-left: 200px;
-margin-right: 200px;
-}
-
-h2 {
-	font-family: 'Nova Square', cursive;
+margin-left: 250px;
+margin-right: 250px;
 }
 
 .title {
 text-align: center;
 font-family: 'Nova Square', cursive;
-font-size: 32px;
-font-weight: bold;
+font-size: 36px;
 }
 
 .content {
-background-color: #FFFFFF;
-text-align: center;
 font-family: 'Duru Sans', sans-serif;
-font-size: 14px;
+font-size: 18px;
 }
 
-a#email {
-	font-size:24px;
+b.name {
+color: #B22222;
 }
 
-img#me {
-	border: 1px solid #000000;
+b.roles {
+color: #B22222;
 }
 
-div#footer {
-	font-size: 10px;
+b.skills {
+color: #B22222;
+font-size: 20px;
+}
+
+#contact {
+text-align: center;
+font-size: 22px;
+}
+
+a {
+color: #B22222;
 }
